@@ -920,7 +920,11 @@ h1.site-title a{
   background: -o-linear-gradient(-45deg,  rgba(0,39,135,1) 14%,rgba(37,141,200,1) 100%); /* Opera 11.10+ */
   background: -ms-linear-gradient(-45deg,  rgba(0,39,135,1) 14%,rgba(37,141,200,1) 100%); /* IE10+ */
   background: linear-gradient(135deg,  rgba(0,39,135,1) 14%,rgba(37,141,200,1) 100%); /* W3C */
+<<<<<<< HEAD
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#002787', endColorstr='#258dc8',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+=======
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='rgb(34, 99, 89)', endColorstr='#258dc8',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+>>>>>>> e63b5f6959ba8744397d48354bd0fc9093b631cc
 }
 
 .logo-container+div.container .nav>li>a,
@@ -979,7 +983,7 @@ h1.site-title a{
       width:2%;
       float: none;
       display: table-cell;
-      background: #002787;
+      background: rgb(34, 99, 89);
   }
   .logo-container+div.container {
     display:table-cell;
@@ -1016,7 +1020,7 @@ h1.site-title a{
 }
 
 .logo-container .logo{
-  background-color: #002787;
+  background-color: rgb(34, 99, 89);
   float: left;
 }
 
