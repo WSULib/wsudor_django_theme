@@ -22,6 +22,10 @@ eultheme/management/commands/__init__.py
 eultheme/management/commands/__init__.pyc
 eultheme/management/commands/disable_downtime.py
 eultheme/management/commands/disable_downtime.pyc
+eultheme/static/.DS_Store
+eultheme/static/._.DS_Store
+eultheme/static/eultheme/.DS_Store
+eultheme/static/eultheme/._.DS_Store
 eultheme/static/eultheme/css/bootstrap.min.css
 eultheme/static/eultheme/css/eultheme.css
 eultheme/static/eultheme/css/eultheme_errpages.css
@@ -37,6 +41,13 @@ eultheme/static/eultheme/fonts/glyphicons-halflings-regular.svg
 eultheme/static/eultheme/fonts/glyphicons-halflings-regular.ttf
 eultheme/static/eultheme/fonts/glyphicons-halflings-regular.woff
 eultheme/static/eultheme/fonts/glyphicons-halflings-regular.woff2
+eultheme/static/eultheme/img/.DS_Store
+eultheme/static/eultheme/img/._.DS_Store
+eultheme/static/eultheme/img/._wsu-shield.png
+eultheme/static/eultheme/img/._wsudor_logo.png
+eultheme/static/eultheme/img/._wsudor_logo_black.png
+eultheme/static/eultheme/img/._wsulibrarylogo2.png
+eultheme/static/eultheme/img/._wsulibrarylogo2white.png
 eultheme/static/eultheme/img/EmoryHz_EUVt_hero.png
 eultheme/static/eultheme/img/EmoryHz_EUVt_hero_white.png
 eultheme/static/eultheme/img/EmoryVt_hero.png
@@ -44,6 +55,10 @@ eultheme/static/eultheme/img/LITS-logo-bk.png
 eultheme/static/eultheme/img/LITS-logo.png
 eultheme/static/eultheme/img/arrow-right.png
 eultheme/static/eultheme/img/favicon.ico
+eultheme/static/eultheme/img/wsu-shield.png
+eultheme/static/eultheme/img/wsudor_logo.png
+eultheme/static/eultheme/img/wsudor_logo_black.png
+eultheme/static/eultheme/img/wsulibrarylogo2.png
 eultheme/static/eultheme/img/wsulibrarylogo2white.png
 eultheme/static/eultheme/js/bootstrap-datepicker.js
 eultheme/static/eultheme/js/bootstrap.min.js
@@ -64,4 +79,6 @@ eultheme/templates/eultheme/snippets/preview_aside.html
 eultheme/templates/eultheme/snippets/search_filters.html
 eultheme/templates/mx/banner.html
 eultheme/templatetags/__init__.py
+eultheme/templatetags/__init__.pyc
 eultheme/templatetags/eultheme.py
+eultheme/templatetags/eultheme.pyc
